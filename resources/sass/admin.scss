@@ -4,13 +4,11 @@
 // Variables
 @import 'variables';
 
+@import 'custom';
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-*{
-    margin: 0;padding: 0;box-sizing: border-box;
-}
 body{
-    background-color: #fedfed;
-    color: #333;
+    background-color: black;
+    color: white;
 }
